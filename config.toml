@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
-disqusShortname = "ink-demo"
+# disqusShortname = "ink-demo"
 
 [params]
 	subtitle = "These focused seminars examine the specific details of various state-of-the-art papers in the CV/DL field. Please contact Hossein Azizpour (azizpour@kth.se) if you would like to deliver a seminar or to suggest a colleague."
