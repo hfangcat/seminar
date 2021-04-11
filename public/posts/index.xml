@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on KTH CV/DL Seminars</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on KTH CV/DL Seminars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kai Han: Transformer in Transformer</title>
+      <link>http://example.org/posts/post-2/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-2/</guid>
+      <description>Title: Transformer in Transformer
+Speaker: Kai Han, Huawei Noah’s Ark Lab
+Date and Time: Tuesday, April 27, 1-2 pm
+Place: Zoom Meeting
+Abstract: Transformer is a type of self-attention-based neural networks originally applied for NLP tasks. Recently, pure transformer-based models are proposed to solve computer vision problems. These visual transformers usually view an image as a sequence of patches while they ignore the intrinsic structure information inside each patch. In this paper, we propose a novel Transformer-iN-Transformer (TNT) model for modeling both patch-level and pixel-level representation.</description>
+    </item>
+    
+    <item>
+      <title>Mostafa Dehghani: Scaling up Vision Models with Transformers</title>
+      <link>http://example.org/posts/post-1/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post-1/</guid>
+      <description>Title: Scaling up Vision Models with Transformers
+Speaker: Mostafa Dehghani, Google Brain
+Date and Time: Tuesday, April 13, 1-2 pm
+Place: Zoom Meeting
+Meeting ID: 698 1002 6609 Pass code: 983918
+Abstract: While the Transformer architecture has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited. In vision, attention is either applied in conjunction with convolutional networks, or used to replace certain components of convolutional networks while keeping their overall structure in place.</description>
+    </item>
+    
+  </channel>
+</rss>
