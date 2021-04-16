@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Past seminars on KTH ML Seminars</title>
-    <link>https://heuristic-ardinghelli-1080b7.netlify.app/tags/past-seminars/</link>
+    <link>https://kth-ml-seminars.netlify.app/tags/past-seminars/</link>
     <description>Recent content in Past seminars on KTH ML Seminars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://heuristic-ardinghelli-1080b7.netlify.app/tags/past-seminars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kth-ml-seminars.netlify.app/tags/past-seminars/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mostafa Dehghani: Scaling up Vision Models with Transformers</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-1/</link>
+      <link>https://kth-ml-seminars.netlify.app/posts/post-1/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-1/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/posts/post-1/</guid>
       <description>Title: Scaling up Vision Models with Transformers
 Speaker: Mostafa Dehghani, Google Brain
 Date and Time: Tuesday, April 13, 1-2 pm
@@ -24,10 +24,10 @@ Abstract: While the Transformer architecture has become the de-facto standard fo
     
     <item>
       <title>Alyosha Efros: The Revolution Will Not Be Supervised</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-6/</link>
+      <link>https://kth-ml-seminars.netlify.app/posts/post-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-6/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/posts/post-6/</guid>
       <description>Title: The Revolution Will Not Be Supervised
 Speaker: Alyosha Efros, University of California Berkeley
 Date and Time: 2019
@@ -37,10 +37,10 @@ Abstract: Computer vision has made impressive gains through the use of deep lear
     
     <item>
       <title>Daphna Weinshall</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-7/</link>
+      <link>https://kth-ml-seminars.netlify.app/posts/post-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-7/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/posts/post-7/</guid>
       <description>Title:
 Speaker: Daphna Weinshall, Hebrew University, Jerusalem
 Date and Time: 2019

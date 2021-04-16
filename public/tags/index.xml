@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on KTH ML Seminars</title>
-    <link>https://heuristic-ardinghelli-1080b7.netlify.app/tags/</link>
+    <link>https://kth-ml-seminars.netlify.app/tags/</link>
     <description>Recent content in Tags on KTH ML Seminars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://heuristic-ardinghelli-1080b7.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kth-ml-seminars.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Upcoming seminars</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/tags/upcoming-seminars/</link>
+      <link>https://kth-ml-seminars.netlify.app/tags/upcoming-seminars/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/tags/upcoming-seminars/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/tags/upcoming-seminars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Past seminars</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/tags/past-seminars/</link>
+      <link>https://kth-ml-seminars.netlify.app/tags/past-seminars/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/tags/past-seminars/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/tags/past-seminars/</guid>
       <description></description>
     </item>
     

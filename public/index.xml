@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KTH ML Seminars</title>
-    <link>https://heuristic-ardinghelli-1080b7.netlify.app/</link>
+    <link>https://kth-ml-seminars.netlify.app/</link>
     <description>Recent content on KTH ML Seminars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://heuristic-ardinghelli-1080b7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kth-ml-seminars.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mathilde Caron: TBD</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-5/</link>
+      <link>https://kth-ml-seminars.netlify.app/posts/post-5/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-5/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/posts/post-5/</guid>
       <description>Title: TBD
 Speaker: Mathilde Caron, Facebook AI Research
 Date and Time: Tuesday, May 18, 1-2 pm
@@ -24,10 +24,10 @@ Bio: TBD</description>
     
     <item>
       <title>Kai Han: Transformer in Transformer</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-2/</link>
+      <link>https://kth-ml-seminars.netlify.app/posts/post-2/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-2/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/posts/post-2/</guid>
       <description>Title: Transformer in Transformer
 Speaker: Kai Han, Huawei Noah’s Ark Lab
 Date and Time: Tuesday, April 27, 1-2 pm
@@ -37,10 +37,10 @@ Abstract: Transformer is a type of self-attention-based neural networks original
     
     <item>
       <title>Alaa El-Nouby: Training Vision Transformers for Image Retrieval</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-4/</link>
+      <link>https://kth-ml-seminars.netlify.app/posts/post-4/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-4/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/posts/post-4/</guid>
       <description>Title: Training Vision Transformers for Image Retrieval
 Speaker: Alaa El-Nouby, Facebook AI Research and Inria Paris
 Date and Time: Tuesday, April 20, 1-2 pm
@@ -51,10 +51,10 @@ Abstract: Transformers have shown outstanding results for natural language under
     
     <item>
       <title>Hugo Touvron: Training data-efficient image transformers &amp; distillation through attention / Going deeper with Image Transformers</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-3/</link>
+      <link>https://kth-ml-seminars.netlify.app/posts/post-3/</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-3/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/posts/post-3/</guid>
       <description>Title: Training data-efficient image transformers &amp;amp; distillation through attention / Going deeper with Image Transformers
 Speaker: Hugo Touvron, Facebook AI Research and Sorbonne University
 Date and Time: Tuesday, April 20, 1-2 pm
@@ -67,10 +67,10 @@ Recently, neural networks purely based on attention were shown to address image 
     
     <item>
       <title>Mostafa Dehghani: Scaling up Vision Models with Transformers</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-1/</link>
+      <link>https://kth-ml-seminars.netlify.app/posts/post-1/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-1/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/posts/post-1/</guid>
       <description>Title: Scaling up Vision Models with Transformers
 Speaker: Mostafa Dehghani, Google Brain
 Date and Time: Tuesday, April 13, 1-2 pm
@@ -81,19 +81,19 @@ Abstract: While the Transformer architecture has become the de-facto standard fo
     
     <item>
       <title>About</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/about/</link>
+      <link>https://kth-ml-seminars.netlify.app/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/about/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/about/</guid>
       <description>This is some static page where you can write about yourself.</description>
     </item>
     
     <item>
       <title>Alyosha Efros: The Revolution Will Not Be Supervised</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-6/</link>
+      <link>https://kth-ml-seminars.netlify.app/posts/post-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-6/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/posts/post-6/</guid>
       <description>Title: The Revolution Will Not Be Supervised
 Speaker: Alyosha Efros, University of California Berkeley
 Date and Time: 2019
@@ -103,10 +103,10 @@ Abstract: Computer vision has made impressive gains through the use of deep lear
     
     <item>
       <title>Daphna Weinshall</title>
-      <link>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-7/</link>
+      <link>https://kth-ml-seminars.netlify.app/posts/post-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://heuristic-ardinghelli-1080b7.netlify.app/posts/post-7/</guid>
+      <guid>https://kth-ml-seminars.netlify.app/posts/post-7/</guid>
       <description>Title:
 Speaker: Daphna Weinshall, Hebrew University, Jerusalem
 Date and Time: 2019
