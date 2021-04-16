@@ -1,5 +1,4 @@
-# baseURL = "https://heuristic-ardinghelli-1080b7.netlify.app/"
-baseURL = ""
+baseURL = "https://heuristic-ardinghelli-1080b7.netlify.app/"
 languageCode = "en-us"
 title = "KTH CV/DL Seminars"
 theme = "ink"
