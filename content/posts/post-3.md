@@ -2,6 +2,7 @@
 title: "Hugo Touvron: Training data-efficient image transformers & distillation through attention / Going deeper with Image Transformers"
 date: "2021-04-20"
 description: "Date and Time: Tuesday, April 20, 1-2 pm"
+tags: [Upcoming seminars]
 ---
 
 **Title:** Training data-efficient image transformers & distillation through attention / Going deeper with Image Transformers
@@ -10,7 +11,9 @@ description: "Date and Time: Tuesday, April 20, 1-2 pm"
 
 **Date and Time:** Tuesday, April 20, 1-2 pm
 
-**Place:** Zoom Meeting
+**Place:** [Zoom Meeting](https://kth-se.zoom.us/j/69964216598?pwd=UW5tNHIxZ0wrSER4R3lOVlNaN2U1QT09)
+
+**Meeting ID:** 699 6421 6598       **Pass code:** 600145
 
 **Abstract:** 
 

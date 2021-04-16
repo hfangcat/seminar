@@ -2,6 +2,7 @@
 title: "Kai Han: Transformer in Transformer"
 date: "2021-04-27"
 description: "Date and Time: Tuesday, April 27, 1-2 pm"
+tags: [Upcoming seminars]
 ---
 
 **Title:** Transformer in Transformer

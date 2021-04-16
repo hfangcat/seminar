@@ -1,6 +1,6 @@
 baseURL = "https://heuristic-ardinghelli-1080b7.netlify.app/"
 languageCode = "en-us"
-title = "KTH CV/DL Seminars"
+title = "KTH ML Seminars"
 theme = "ink"
 paginate = 5
 
@@ -14,7 +14,7 @@ googleAnalytics = "UA-123-45"
 # disqusShortname = "ink-demo"
 
 [params]
-	subtitle = "These focused seminars examine the specific details of various state-of-the-art papers in the CV/DL field. Please contact Hossein Azizpour (azizpour@kth.se) if you would like to deliver a seminar or to suggest a colleague."
+	# subtitle = "These focused seminars examine the specific details of various state-of-the-art papers in the CV/DL field. Please contact Hossein Azizpour (azizpour@kth.se) if you would like to deliver a seminar or to suggest a colleague."
 
 	# Optional 64x64 avatar image.
 	avatar = "https://pbs.twimg.com/profile_images/972081577256783874/2vzBcbrQ.jpg"
@@ -30,13 +30,13 @@ googleAnalytics = "UA-123-45"
 	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
 # Nav.
-# [[menu.main]]
-# name = "Home"
-# url = "/"
-# weight = 1
+[[menu.main]]
+name = "All seminars"
+url = "/"
+weight = 1
 
 # [[menu.main]]
-# name = "All posts"
+# name = "All seminars"
 # url = "/posts"
 # weight = 2
 
@@ -45,10 +45,10 @@ googleAnalytics = "UA-123-45"
 # url = "/about"
 # weight = 3
 
-# [[menu.main]]
-# name = "Tags"
-# url = "/tags"
-# weight = 4
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
 
 # [[params.social]]
 # name = "Github"
