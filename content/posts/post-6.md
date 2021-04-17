@@ -2,7 +2,7 @@
 title: "Alyosha Efros: The Revolution Will Not Be Supervised"
 date: "2019"
 description: "Date and Time: 2019"
-tags: [Past seminars]
+tags: [Past-seminars]
 ---
 
 **Title:** The Revolution Will Not Be Supervised

@@ -2,7 +2,7 @@
 title: "Alaa El-Nouby: Training Vision Transformers for Image Retrieval"
 date: "2021-04-20"
 description: "Date and Time: Tuesday, April 20, 1-2 pm"
-tags: [Upcoming seminars]
+tags: [Upcoming-seminars]
 ---
 
 **Title:** Training Vision Transformers for Image Retrieval

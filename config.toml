@@ -31,19 +31,19 @@ googleAnalytics = "UA-123-45"
 
 # Nav.
 [[menu.main]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[menu.main]]
 name = "All seminars"
 url = "/"
-weight = 1
+weight = 2
 
 # [[menu.main]]
 # name = "All seminars"
 # url = "/posts"
 # weight = 2
-
-# [[menu.main]]
-# name = "About"
-# url = "/about"
-# weight = 3
 
 # [[menu.main]]
 # name = "Tags"
@@ -53,12 +53,17 @@ weight = 1
 [[menu.main]]
 name = "Upcoming seminars"
 url = "/tags/upcoming-seminars"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Past seminars"
 url = "/tags/past-seminars"
-weight = 3
+weight = 4
+
+[[menu.main]]
+name = "Registration"
+url = "/registration"
+weight = 5
 
 # [[params.social]]
 # name = "Github"

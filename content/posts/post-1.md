@@ -2,7 +2,7 @@
 title: "Mostafa Dehghani: Scaling up Vision Models with Transformers"
 date: "2021-04-13"
 description: "Date and Time: Tuesday, April 13, 1-2 pm"
-tags: [Past seminars]
+tags: [Past-seminars]
 ---
 
 **Title:** Scaling up Vision Models with Transformers
