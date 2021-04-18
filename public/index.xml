@@ -66,6 +66,24 @@ Recently, neural networks purely based on attention were shown to address image 
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://kth-ml-seminars.netlify.app/about/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kth-ml-seminars.netlify.app/about/</guid>
+      <description>The KTH Machine Learning Seminars is a series of international presentations from the field of machine learning and computer vision on certain thematic topics of interest for the KTH Division of Robotics, Perception, and Learning. The seminars is announced in a mailing list that has subscribers from other universities and industry outside KTH. If you or your colleagues want to present at this series, or if you have other questions, please can contact Hossein Azizpour at azizpour@kth.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://kth-ml-seminars.netlify.app/registration/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kth-ml-seminars.netlify.app/registration/</guid>
+      <description>  window.addEventListener(&#39;load&#39;, function () { var options = {}; options.tags = []; options.host = &#39;https://www.kth.se&#39;; getEmbeddedForm(&#34;607986bfe946a10014f79392&#34;, options); }, { once: true });  </description>
+    </item>
+    
+    <item>
       <title>Mostafa Dehghani: Scaling up Vision Models with Transformers</title>
       <link>https://kth-ml-seminars.netlify.app/posts/post-1/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
@@ -77,15 +95,6 @@ Date and Time: Tuesday, April 13, 1-2 pm
 Place: Zoom Meeting
 Meeting ID: 698 1002 6609 Pass code: 983918
 Abstract: While the Transformer architecture has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited. In vision, attention is either applied in conjunction with convolutional networks, or used to replace certain components of convolutional networks while keeping their overall structure in place.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://kth-ml-seminars.netlify.app/about/</link>
-      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
-      
-      <guid>https://kth-ml-seminars.netlify.app/about/</guid>
-      <description>This is some static page where you can write about yourself.</description>
     </item>
     
     <item>

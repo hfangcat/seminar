@@ -2,7 +2,7 @@ baseURL = "https://kth-ml-seminars.netlify.app/"
 languageCode = "en-us"
 title = "KTH ML Seminars"
 theme = "ink"
-paginate = 5
+paginate = 8
 
 copyright = "© Copyright notice"
 
